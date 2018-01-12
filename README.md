@@ -1,1 +1,1 @@
-blog
+First application with Ruby on Rails
